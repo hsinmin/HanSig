@@ -13,7 +13,7 @@
 
 - Examples of collected signatures in three styles: neat (top), normal (middle), and stylish (bottom).
 
-<img src="./images/HanSig_Style1.jpg" alt="HanSig_Style1" height="118"></br> 
+<img src="./images/HanSig_Style1.jpg" alt="HanSig_Style1" height="116"></br> 
 <img src="./images/HanSig_Style2.jpg" alt="HanSig_Style2" height="128"></br> 
 <img src="./images/HanSig_Style3.jpg" alt="HanSig_Style3" height="123">
 
