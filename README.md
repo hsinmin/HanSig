@@ -17,7 +17,7 @@
 <img src="./images/HanSig_Style2.jpg" alt="HanSig_Style2" height="130"></br> 
 <img src="./images/HanSig_Style3.jpg" alt="HanSig_Style3" height="125">
 
-- Examples of collected genuine (left) and forged (right) signatures.
+- Examples of collected genuine (top) and forged (bottom) signatures.
 
 <img src="./images/HanSig_samples5.png" alt="HanSig_samples5" height="125"> 
 <img src="./images/HanSig_samples6.png" alt="HanSig_samples6" height="123">
