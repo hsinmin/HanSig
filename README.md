@@ -38,7 +38,7 @@ If you use this dataset in your research, please cite our work: </br>
 **Fu-Hsien Huang and Hsin-Min Lu. Multiscale Global and Regional Feature Learning Using Co-Tuplet Loss for Offline Handwritten Signature Verification.**
 
 ```
-@article{multisigver2022,
+@article{multisigver2023,
   author={Huang, Fu-Hsien and Lu, Hsin-Min},
   journal={}, 
   title={Multiscale Global and Regional Feature Learning Using Co-Tuplet Loss for Offline Handwritten Signature Verification}, 
