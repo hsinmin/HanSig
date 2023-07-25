@@ -28,9 +28,12 @@
   * *3* refers to the third signature image of a specific name 
 * Each forged signature image has a unique filename such as *forgery\_w1\_2\_3.jpg*. This filename is organized similar to that of genuine signature images.
 
-## Get the Data ##
+## Getting the data ##
 
-The `HanSig` dataset will be available here.
+Please email Fu-Hsien Huang (d10725004@ntu.edu.tw) **with the title "HanSig dataset request"** to obtain a copy of the HanSig dataset. By applying and downloading the dataset, you agree with the following terms: </br>
+* The HanSig dataset is for non-commercial research purposes only.
+* You agree not to reproduce, duplicate, copy, sell, trade, resell, or exploit any portion of the images and any portion of derived data for commercial purposes.
+* You agree not to further publish or distribute any portion of the HanSig dataset.
 
 ## Citation ##
 
