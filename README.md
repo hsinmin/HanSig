@@ -30,10 +30,7 @@
 
 ## Getting the data ##
 
-Please email Fu-Hsien Huang (d10725004@ntu.edu.tw) **with the title "HanSig dataset request"** to obtain a copy of the HanSig dataset. By applying and downloading the dataset, you agree with the following terms: </br>
-* The HanSig dataset is for non-commercial research purposes only.
-* You agree not to reproduce, duplicate, copy, sell, trade, resell, or exploit any portion of the images and any portion of derived data for commercial purposes.
-* You agree not to further publish or distribute any portion of the HanSig dataset.
+Please fill in [the form](https://docs.google.com/forms/d/e/1FAIpQLSeYeHmEF09Ek7A-idUCpKfF1PRQM85Uo1kTn1EdIj3Iw2bZNw/viewform?usp=sf_link) to obtain instructions for downloading the `HanSig` dataset. Please refer to above-mentioned Data Examples and our work for detailed description of this dataset.
 
 ## Citation ##
 
