@@ -30,7 +30,7 @@
 
 ## Getting the data ##
 
-Please fill in [the form](https://docs.google.com/forms/d/e/1FAIpQLSeYeHmEF09Ek7A-idUCpKfF1PRQM85Uo1kTn1EdIj3Iw2bZNw/viewform?usp=sf_link) to obtain instructions for downloading the `HanSig` dataset. Please refer to above-mentioned Data Examples and our work for detailed description of this dataset.
+Please fill in [the form](https://docs.google.com/forms/d/e/1FAIpQLSeYeHmEF09Ek7A-idUCpKfF1PRQM85Uo1kTn1EdIj3Iw2bZNw/viewform?usp=sf_link) to obtain instructions for downloading the `HanSig` dataset. In addition, please refer to above-mentioned Data Examples and our work for detailed description of this dataset.
 
 ## Citation ##
 
