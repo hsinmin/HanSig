@@ -30,21 +30,20 @@
 
 ## Getting the data ##
 
-Please fill in [the form](https://docs.google.com/forms/d/e/1FAIpQLSeYeHmEF09Ek7A-idUCpKfF1PRQM85Uo1kTn1EdIj3Iw2bZNw/viewform?usp=sf_link) to obtain instructions for downloading the `HanSig` dataset. In addition, please refer to above-mentioned Data Examples and our work for detailed description of this dataset.
+Please fill in [the form](https://docs.google.com/forms/d/e/1FAIpQLSeYeHmEF09Ek7A-idUCpKfF1PRQM85Uo1kTn1EdIj3Iw2bZNw/viewform?usp=sf_link) to obtain instructions for downloading the `HanSig` dataset. In addition, please refer to above-mentioned Data Examples and [our work](https://arxiv.org/abs/2308.00428) for detailed description of this dataset.
 
 ## Citation ##
 
 If you use this dataset in your research, please cite our work: </br>
-**Fu-Hsien Huang and Hsin-Min Lu. Multiscale Global and Regional Feature Learning Using Co-Tuplet Loss for Offline Handwritten Signature Verification.**
+**F.-H. Huang and H.-M. Lu. Multiscale Global and Regional Feature Learning Using Co-Tuplet Loss for Offline Handwritten Signature Verification. *arXiv preprint arXiv:2308.00428*, 2023.**
 
 ```
-@article{multisigver2023,
-  author={Huang, Fu-Hsien and Lu, Hsin-Min},
-  journal={}, 
-  title={Multiscale Global and Regional Feature Learning Using Co-Tuplet Loss for Offline Handwritten Signature Verification}, 
-  year={},
-  volume={},
-  pages={},
-  DOI = {}
+@misc{huang2023multiscale,
+      title = {Multiscale Global and Regional Feature Learning Using Co-Tuplet Loss for Offline Handwritten Signature Verification}, 
+      author = {Fu-Hsien Huang and Hsin-Min Lu},
+      year = {2023},
+      eprint = {2308.00428},
+      archivePrefix = {arXiv},
+      primaryClass = {cs.CV}
 }
 ```
