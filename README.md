@@ -39,7 +39,7 @@ If you use this dataset in your research, please cite our work: </br>
 
 ```
 @misc{huang2023multiscale,
-      title = {Multiscale Global and Regional Feature Learning Using Co-Tuplet Loss for Offline Handwritten Signature Verification}, 
+      title = {Multiscale Feature Learning Using Co-Tuplet Loss for Offline Handwritten Signature Verification}, 
       author = {Fu-Hsien Huang and Hsin-Min Lu},
       year = {2023},
       eprint = {2308.00428},
